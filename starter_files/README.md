@@ -10,7 +10,7 @@ Lastly, we will re-submit our experiment using an Azure ML pipeline strategy. We
 ## Architectural Diagram
 
 **AutoML Model Consumption Architecture with AML GUI**
-![imbalance image](images/imbalance.PNG)
+![automl architecture](images\architecture_automl.png)
 
 ## Key Steps
 *TODO*: Write a short discription of the key steps. Remeber to include all the screenshots required to demonstrate key steps. 
