@@ -103,14 +103,14 @@ We will then re-submit the pipeline using the pipeline’s REST endpoint.
 To improve our project in the future we will heavily focus on complete end-to-end automation by:
 
 1. Adopting an infrastructure-as-code (IAC) tenet where training, continuous experimentation, and scoring are completely executed via code instead of using the Azure ML studio GUI.
-2. We will 'wrap' our codes into functions and pipelines. So there will be three key pipelines, 
+2. We will 'wrap' our codes into functions and pipelines. So, there will be three key pipelines,
 
     * a pipeline for training,
     * experimentation, and
     * for scoring.
 Instead of deploying a model endpoint, we will deploy a scoring pipeline that includes individual .py (python) scripts for retrieving, pre-processing, and serving data to the predictive model. This should more approximate our real-world experience with real-world data (RWD) since almost 80% of modeling and scoring is spent on pre-processing.
 
-Our main goal is to eventually operationalize ML, for training and scoring, as a continuous integration / continuous delivery and delopyment (CI/CD) process. Automating our end-to-end ML workflow is a critical step to achieving this goal.
+Our main goal is to eventually operationalize ML, for training and scoring, as a continuous integration / continuous delivery and deployment (CI/CD) process. Automating our end-to-end ML workflow is a critical step to achieving this goal.
 
 ## Screen Recording
 *TODO* Provide a link to a screen recording of the project in action. Remember that the screencast should demonstrate:
