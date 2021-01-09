@@ -113,7 +113,8 @@ Instead of deploying a model endpoint, we will deploy a scoring pipeline that in
 Our main goal is to eventually operationalize ML, for training and scoring, as a continuous integration / continuous delivery and deployment (CI/CD) process. Automating our end-to-end ML workflow is a critical step to achieving this goal.
 
 ## Screen Recording
-*TODO* Provide a link to a screen recording of the project in action. Remember that the screencast should demonstrate:
+
+[Screencast Link](https://youtu.be/Dk5_3Rae6bU)
 
 ## Standout Suggestions
 
