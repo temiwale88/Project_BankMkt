@@ -96,7 +96,8 @@ We will then re-submit the pipeline using the pipeline’s REST endpoint.
 ![ML studio showing the pipeline endpoint as Active” ](images/pipeline_with_active_status.png)
 
 **ML studio showing the scheduled run**  
-![ML studio showing the scheduled run” ](images/pipeline_scheduled_run.png)
+![ML studio showing the scheduled run” ](images/pipeline_scheduled_run2.png)
+![ML studio showing the completed run” ](images/pipeline_with_complete_status.png)
 
 ## Future Considerations
 
